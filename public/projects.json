@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "RedDrop-Heroes",
+      "image": "https://i.ibb.co.com/27bhhjZN/home.png",
+      "description": "Welcome to [RedDrop-Heroes], a platform dedicated to connecting donors and recipients for life-saving blood donations.",
+      "technologies": ["React", "Tailwind CSS", "Firebase", "MongoDB", "Express", "JavaScript", "Node.js", "Stripe"],
+      "challenges": "Integrating multiple users and ensuring secure payment processing with Stripe while maintaining a smooth user experience.",
+      "futurePlans": "Release the mobile version of this website ",
+      "liveLink": "https://nimble-basbousa-ff6eef.netlify.app/",
+      "githubLink": "https://github.com/hasibprangon/RedDrop-Heroes-client"
+    },
+    {
+      "id": 2,
+      "name": "PeerLearn- Academy",
+      "image": "https://i.ibb.co.com/Q3Q1z8Gp/Screenshot-1.png",
+      "description": "PeerLearn Academy is an innovative web application that empowers users to engage in collaborative online group study sessions. Whether you want to create assignments, complete them, or grade your friends' work, PeerLearn Academy is here to make learning with friends more interactive and enjoyable.",
+      "technologies": ["React", "Tailwind CSS", "Node.js", "MongoDB", "Express", "JavaScript"],
+      "challenges": "Marking all assignment, creating assignment",
+      "futurePlans": "Introducing a mobile app version for better accessibility, along with features like online colab",
+      "liveLink": "https://peerlearn-academy.netlify.app/",
+      "githubLink": "https://github.com/hasibprangon/PeerLearn-Academy-client"
+    },
+    {
+      "id": 3,
+      "name": "Crowdcube",
+      "image": "https://i.ibb.co.com/7x0kHPk4/crowdcube.png",
+      "description": "Welcome to Crowdcube, the ultimate crowdfunding platform designed to support meaningful causes, creative projects, startups, and personal needs. Whether you're looking to donate to a campaign or launch your own, Crowdcube makes it easy and impactful.",
+      "technologies": ["React", "Tailwind CSS", "Firebase", "MongoDB", "Express", "Node.js", "JavaScript"],
+      "challenges": "Handling the donation and door info, creating campaign etc.",
+      "futurePlans": "Expanding the website all over the world",
+      "liveLink": "https://rainbow-froyo-779ef7.netlify.app/",
+      "githubLink": "https://github.com/hasibprangon/B10Assignment-10-Crowdcube-Client-"
+    }
+  ]
+  
